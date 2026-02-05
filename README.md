@@ -15,7 +15,7 @@ Swift 6.2+
 
 ```swift
 // Swift Package Manager
-.package(url: "https://github.com/your-org/BinaryReaderWriter.git", from: "0.1.0")
+.package(url: "https://github.com/joehinkle11/BinaryReaderWriter.git", from: "1.0.0")
 ```
 
 Add `BinaryReader` and/or `BinaryWriter` to your target dependencies.
